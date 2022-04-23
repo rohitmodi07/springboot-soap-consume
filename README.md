@@ -26,6 +26,6 @@ Project Requirements
 
 JDK 1.11 or higher, spring boot 2.5 or higher
 
-For more details please visit www.tech-maze.com
+For more details please visit www.tech-maze.info
 
 
